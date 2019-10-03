@@ -1,4 +1,5 @@
 # gorbyoyo-translator
+Built with React, Node.js, Express, and NeDB
 
 ## Installation
 Install [Node.js](https://nodejs.org/en/) if neccesary
